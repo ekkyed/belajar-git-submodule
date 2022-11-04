@@ -5,3 +5,5 @@ const sayHello = name => {
 const sayGuest = () => {
   return 'Hello';
 }
+
+const sum = (a, b) => a + b;
